@@ -654,8 +654,7 @@ a {
 .toggle-checkbox:checked+.toggle-switch::before {
     content: "\f00c";
     left: 50px;
-    color: red;
-    
+    color: var(--blue-color); 
 }
 /* End Settings */
 /* Start Site Control */
